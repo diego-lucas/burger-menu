@@ -1,0 +1,15 @@
+.logo {
+    width: 90px
+}
+
+.banner {
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+    height: 400px;
+    background-position: top;
+}
+
+.card .card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
